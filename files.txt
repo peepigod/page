@@ -1,0 +1,4 @@
+main.exe
+te.tt
+text.txt
+a.txt
