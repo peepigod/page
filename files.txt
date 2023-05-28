@@ -1,4 +1,14 @@
+Core.dll
+Functions.dll
+Gotrue.dll
+main.dll
 main.exe
-te.tt
-text.txt
-a.txt
+main.runtimeconfig.json
+MimeMapping.dll
+Newtonsoft.Json.dll
+Postgrest.dll
+Realtime.dll
+Storage.dll
+Supabase.dll
+System.Reactive.dll
+Websocket.Client.dll
